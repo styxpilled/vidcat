@@ -22,4 +22,5 @@ The name is short for Vid(eo) Cat(egoriser).
 - [ ] flag files that don't include a word using a dictionary
 - [ ] file deleting undo
 - [ ] image support
+- [ ] webm to h264 transcoding
 
